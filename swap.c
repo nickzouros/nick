@@ -3,7 +3,7 @@
 int main(void)
 {
 
-    int x = 28;
+    int x = 51;
     int y = 7;
 
     printd("x is %i\n", x);
